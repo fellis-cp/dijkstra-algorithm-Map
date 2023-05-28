@@ -1,2 +1,2 @@
 # dijkstra-algorithm
-Implementation of dijkstra algorithm using php on google map
+implementasi dijkstra-algorithm untuk memenuhi tugas teori graph
